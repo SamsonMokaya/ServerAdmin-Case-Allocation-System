@@ -15,7 +15,7 @@ $casecategory ="";
 $errors = array(); 
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'project');
+$db = mysqli_connect("localhost","root","mOkaya22s", "project",3306);
    $name=$_SESSION['username'];
    $userid=$_SESSION['userid'];
    if(isset($_POST['submitt'])){

@@ -15,7 +15,7 @@ $casecategory ="";
 $errors = array(); 
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'project');
+$db = mysqli_connect("localhost","root","mOkaya22s", "project",3306);
 $query = "SELECT * FROM users WHERE username='$name'";
    $name=$_SESSION['username'];
    $userid=$_SESSION['userid'];
