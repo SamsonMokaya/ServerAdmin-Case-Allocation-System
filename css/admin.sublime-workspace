@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"c",
+				"cursor\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"case",
+				"casecategory"
+			],
+			[
+				"use",
+				"userid"
+			],
+			[
+				"failed",
+				"failedcases"
+			],
+			[
+				"usr",
+				"usertype"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"pass",
+				"password"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/profile.php",
+		"/C/xampp/htdocs/civilian.php",
+		"/C/xampp/htdocs/civiliandash.php",
+		"/C/xampp/htdocs/button.php",
+		"/C/xampp/htdocs/view.php",
+		"/C/xampp/htdocs/edit.php",
+		"/C/xampp/htdocs/3.html",
+		"/C/xampp/htdocs/civbio.php",
+		"/C/xampp/htdocs/dd.html",
+		"/C/xampp/htdocs/css/style.css",
+		"/C/xampp/htdocs/serve.php",
+		"/C/xampp/htdocs/admin.php",
+		"/C/xampp/htdocs/server3.php",
+		"/C/xampp/htdocs/css/bootstrap.min.css",
+		"/C/xampp/htdocs/2.html",
+		"/C/xampp/htdocs/1.html",
+		"/C/xampp/htdocs/lawyers.php",
+		"/C/xampp/htdocs/se.php",
+		"/C/Users/HP OMEN/Downloads/Compressed/Need-For-Speed-Payback-Deluxe-Edition_3.rar",
+		"/C/xampp/htdocs/availability.php",
+		"/C/xampp/htdocs/lawyer_biodata.php",
+		"/C/Users/HP OMEN/AppData/Local/Temp/Temp1_php-select-option.zip/php-select-option/index.php",
+		"/C/xampp/htdocs/index.html",
+		"/C/Users/HP OMEN/Downloads/crud.rar",
+		"/C/xampp/htdocs/see.php",
+		"/C/xampp/htdocs/TY",
+		"/C/xampp/htdocs/ER.php",
+		"/C/xampp/htdocs/QW.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/server2.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

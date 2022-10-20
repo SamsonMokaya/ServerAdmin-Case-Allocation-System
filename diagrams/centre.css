@@ -1,0 +1,33 @@
+body
+{
+	bacg
+	margin:0;
+	padding: 0;
+}
+.box{
+	width: 500px;
+	height:400px;
+	margin:100px auto;
+	background: green;
+	position: centre;
+
+
+}
+.button1
+{
+	margin:0;
+	padding: 0;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.case{
+	width: 500px;
+	height:400px;
+	margin:100px auto;
+	background: green;
+	position: centre;
+
+
+}
