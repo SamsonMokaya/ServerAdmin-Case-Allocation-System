@@ -18,11 +18,11 @@ if (isset($_POST['login_user'])) {
 
   if (empty($email)) {
     array_push($errors, "email is required");
-    header('location:3.php');
+    header('location:3.html');
   }
   if (empty($password)) {
     array_push($errors, "Password is required");
-    header('location:3.php');
+    header('location:3.html');
   }
 
   if (count($errors) == 0) {
@@ -59,7 +59,7 @@ if (isset($_POST['login_user'])) {
     }} else {
       array_push($errors, "Wrong username/password combination");
       echo"Wrong username/password combination";
-      header('location:3.php');
+      header('location:3.html');
     }
   
   }
